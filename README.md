@@ -55,7 +55,7 @@ Plone Community | [Month, Year] – Present
 - Created and merged 8 pull requests, improving the platform's usability and documentation.
 
 **Co-founder & Full Stack Developer**
-[Your E-commerce Platform] | [Month, Year] – Present
+[Your E-commerce Platform] |
 
 - Developed an e-commerce platform with Razorpay integration, facilitating transactions for social media influencers.
 - Utilized Next.js, Tailwind CSS, DaisyUI, and Redux to build and manage the platform.
